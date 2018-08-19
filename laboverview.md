@@ -9,5 +9,5 @@ This schedule may not be updated. Please consult the [lecture plan](https://gith
 | 3   | [Network Programming with Go](https://github.com/uis-dat320-fall18/assignments/tree/master/lab3)     | Pass/Fail | Submit on your own |  28/9    |
 | 4   | [Programming Tools](https://github.com/uis-dat320-fall18/assignments/tree/master/lab4)               | Pass/Fail | Submit on your own |   12/10   |
 | 5   | [Threads and Protection](https://github.com/uis-dat320-fall18/assignments/tree/master/lab5)          | Pass/Fail | Submit on your own |  26/10   |
-| 6   | [ZapLab: TV channel statistics](https://github.com/uis-dat320-fall18/gassignments/tree/master/lab7)  | Graded    | Submit as group    |  16/11   |
+| 6   | [ZapLab: TV channel statistics](https://github.com/uis-dat320-fall18/gassignments/tree/master/lab6)  | Graded    | Submit as group    |  16/11   |
 | 7   | Final deadline with slip days                                                          |           |                    |  21/11   |
