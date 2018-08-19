@@ -1,9 +1,9 @@
 ###Lab Exam Information
 
-The lab exam will be held in **Week 47 (November 24th 2017)** (Final).
+The lab exam will be held in **Week 47 (November 22nd and 23rd 2018)** (Final).
 Exact day and time will be provided in a separate schedule.
  
-1. Examination is individual and covers only lab 6 and 7. 
+1. Examination is individual and covers only lab 6. 
 
 2. It is meant to be a demo session, where you show that your joint lab is
 working, and you will be asked to run different parts of the program(s) that
