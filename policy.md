@@ -57,10 +57,10 @@ student or make your code available to others. These labs will *not be graded*,
 but must be completed to at least the level of passing (>60 points per lab).
 You will not be told your grade points, only pass/fail.
 
-####Labs 6 - 7:
-The last two lab handins will be two larger projects which will require a
+####Lab 6:
+The last lab handin will be a larger project which will require a
 significant amount of work. We expect students to form groups and work together
-on these lab handins. For these lab handins the passing level will also be > 60
+on this lab handin. For this lab handin the passing level will also be > 60
 points per lab. We will evaluate each handin separately and give the group a
 joint grade per lab. **The final lab grade will be determined by the oral
 examination/demo in the lab. The oral exam will be conducted individually.**
