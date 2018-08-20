@@ -4,7 +4,7 @@
 
 | W    |  Date     | Chap.     | Topic                                            | Resources | Travels / Remarks     |
 |:----:|:---------:|:-----:    |--------------------------------------------------|:-------:|:------------:|
-|  34  |  20/8     |   1       | Introduction to Operating Systems                |  [slides](), [Homework]()       |              |
+|  34  |  20/8     |   1       | Introduction to Operating Systems                |  [slides](https://stavanger.instructure.com/courses/2608/modules/items/29667), [Homework](https://stavanger.instructure.com/courses/2608/modules/items/29611)       |              |
 |      |  20/8     |           | Lab1: Getting started with Unix, git, github and Go    |         |              |
 |      |  22/8     |           | Go for Java programmers                          |  [slides](https://talks.golang.org/2015/go-for-java-programmers.slide#1)       |              |
 |      |  24/8     | Lab 1     | Lab1: Unix, programming tools and C                    |         |              |
