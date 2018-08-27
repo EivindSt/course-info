@@ -24,7 +24,7 @@ project in Autograder.
    account.
 
 2. Click the "Sign in with GitHub" button in
-   [Autograder](http://autograder.ux.uis.no) to register. You will then be
+   [Autograder](http://ag3.ux.uis.no) to register. You will then be
    taken to GitHub's website.
 
 3. Approve that our Autograder application may have permission to access to the
