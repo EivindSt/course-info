@@ -52,9 +52,9 @@
 |      | 7/11      |           |  OS Security                                  |         |    |
 |      | 9/11     |           | ZapLab: TV channel statistics (No lab assistance)|         |              |
 |  46  | 12/11     |           | Guest Lecuter                  |         |              |
-|      | 14/11      |           | Revision, Q&A                                   |         |  |
 |      | **16/11** | **Lab 6** | **ZapLab: TV channel statistics**                |         |              |
 |  47    | 21/11     |           | **ZapLab: TV channel statistics (with all 5 slip days)**                                     |         |              |
 |      | 22/11     |           | **Lab Exam**                                     |         |              |
 |      | 23/11     |           | **Lab Exam**                                     |         |              |
+|  48   | 26/11      |           | Revision, Q&A                                   |         |  |
 |  49  | 7/12      |           | **Exam**                                         |         |              |
