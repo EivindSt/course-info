@@ -51,7 +51,8 @@
 |  45  | 5/11      |           |  OS Security                               |         |    |
 |      | 7/11      |           |  OS Security                                  |         |    |
 |      | 9/11     |           | ZapLab: TV channel statistics (No lab assistance)|         |              |
-|  46  | 12/11     |           | Guest Lecuter                  |         |              |
+|  46  | 12/11     |           | Guest Lecutre1                  |         |              |
+|    | 14/11     |           | Guest Lecutre2 (tentative)                  |         |              |
 |      | **16/11** | **Lab 6** | **ZapLab: TV channel statistics**                |         |              |
 |  47    | 21/11     |           | **ZapLab: TV channel statistics (with all 5 slip days)**                                     |         |              |
 |      | 22/11     |           | **Lab Exam**                                     |         |              |
