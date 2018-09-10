@@ -10,7 +10,7 @@ All chapters listed below, published slides from It's learning, code snippets fr
 | 1       | All. The concepts in 1.2 are important.                                           |
 | 2       | All except 2.9 and 2.10. Sidebar on p. 88 gives a good summary.                   |
 | 3       | All                                                                               |
-| 4       | All                                                                               |
+| 4       | All  except 4.6, 4.7 and 4.8                                                                             |
 | 5       | All. *Chapter 5.5 is important.* Chapter 5.7 will not play a role on the exam.    |
 | 6       | All. *Chapters 6.2, 6.4, and 6.5 are important.* Chapter 6.5.4 not on exam.       |
 | 7       | All. *Chapters 7.1 and 7.2 are important.* Chapters 7.3-7.5 not on exam.          |
