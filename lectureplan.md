@@ -14,13 +14,13 @@
 |      |  **31/8**  | **Lab 1** | **Lab1 Due: Unix, programming tools and C**                |         |          |
 |  36  |  3/9      |   3       | The Programming Interface                        | [slides](https://stavanger.instructure.com/files/306376/download?download_frd=1)        |              |
 |      |  3/9      |           | Organizing Go Code                               |         |              |
-|      |  4/9      |   4       | Concurrency and Threads                          |   [slides]()   [Homework]()   |              |
+|      |  4/9      |   4       | Concurrency and Threads                          |   [slides](https://stavanger.instructure.com/files/313317/download?download_frd=1)   [Homework]()   |              |
 |      |  7/9      | Lab 2     | Introduction to Go programming                   |         |              |
 |  37  |  10/9     |   5       | Go Concurrency           |   [Concurrency vs Parallelism slides](https://talks.golang.org/2012/waza.slide#1) [Video](https://vimeo.com/49718712)    |              |
 |      |  10/9     |           | Go Network Programming                                   |         |              |
-|      |  12/9     |   5       | Synchronizing Access to Shared Objects           | [slides]()        |              |
+|      |  12/9     |   5       | Synchronizing Access to Shared Objects           | [slides](https://stavanger.instructure.com/files/316521/download?download_frd=1)        |              |
 |      |  **14/9** | **Lab 2** | **Lab2 Due: Introduction to Go programming**               |         |              |
-|  38  |  17/9     |   5       | Synchronizing Access to Shared Objects           |  [Go synchrnization slides]()       |              |
+|  38  |  17/9     |   5       | Synchronizing Access to Shared Objects           |  [Go synchrnization slides](https://stavanger.instructure.com/files/283445/download?download_frd=1)       |              |
 |      |  17/9     | Lab 3     | Network Programming with Go                      |         |              |
 |      |  19/9     |   6       | Multi-Object Synchronization                     |         |              |
 |      |  21/9     |           | Network Programming with Go      |          | 
