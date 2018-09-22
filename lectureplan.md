@@ -24,9 +24,9 @@
 |      |  17/9     | Lab 3     | Network Programming with Go                      |         |              |
 |      |  19/9     |   6       | Multi-Object Synchronization                     |         |              |
 |      |  21/9     |           | Network Programming with Go      |          | 
-|  39  |  24/9     |   6       | Multi-Object Synchronization                     |         |              |
+|  39  |  24/9     |   6       | Multi-Object Synchronization                     |   [Slides](https://stavanger.instructure.com/courses/2608/modules/items/34626)      |              |
 |      |  24/9 | Lab 3 | Network Programming with Go                  |         |              |
-|      | 26/9      |   7       | Scheduling                                       |         |              |
+|      | 26/9      |   7       | Scheduling                                       |  [Slides](https://stavanger.instructure.com/courses/2608/modules/items/34627)       |              |
 |      |  **28/9** | **Lab 3** | **Network Programming with Go**                  |         |              |
 |  40  |  1/10     |   8       | Address Translation                              |         |              |
 |      |  1/10     |           | Programming Tools                                |         |              |

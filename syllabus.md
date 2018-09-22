@@ -3,7 +3,7 @@
 The course is based on this [textbook](http://www.recursivebooks.com): 
 Operating Systems: Principles and Practice, Tom Anderson and Mike Dahlin. Second edition.
 
-All chapters listed below, published slides from It's learning, code snippets from [course-info](https://github.com/uis-dat320-fall17/course-info/tree/master/src), and lab exercises 1-6 are syllabus. 
+All chapters listed below, published slides from It's learning, code snippets from [course-info](https://github.com/uis-dat320-fall18/course-info/tree/master/src), and lab exercises 1-6 are syllabus. 
 
 | Chapter | Details                                                                           |
 |:-------:|-----------------------------------------------------------------------------------|
