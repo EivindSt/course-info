@@ -28,11 +28,11 @@
 |      |  24/9 | Lab 3 | Network Programming with Go                  |         |              |
 |      | 26/9      |   7       | Scheduling                                       |  [Slides](https://stavanger.instructure.com/courses/2608/modules/items/34627)       |              |
 |      |  **28/9** | **Lab 3** | **Network Programming with Go**                  |         |              |
-|  40  |  1/10     |   8       | Address Translation                              |         |              |
+|  40  |  1/10     |   8       | Address Translation                              |         |  Hein Meling takes over            |
 |      |  1/10     |           | Programming Tools                                |         |              |
 |      |  3/10     |   8       | Address Translation                              |         |              |
 |      |  5/10 | Lab 4 | Data Race Detection and Profiling                            |         |              |
-|  41  | 8/10      |   9       | No lecture work on labs                       |         |              |
+|  41  | 8/10      |   9       | No lecture work on labs                       |         |     Hein travelling         |
 |      | 8/10      | Lab 5     | Threads and Protection                           |         |              |
 |      | 10/10     |  10       | No lecture work on labs                        |         |              |
 |      |  **12/10** | **Lab 4** | **Lab4 Due: Data Race Detection and Profiling**                            |         |              |
