@@ -28,34 +28,34 @@
 |      |  24/9 | Lab 3 | Network Programming with Go                  |         |              |
 |      | 26/9      |   7       | Scheduling                                       |  [Slides](https://stavanger.instructure.com/courses/2608/modules/items/34627)       |              |
 |      |  **28/9** | **Lab 3** | **Network Programming with Go**                  |         |              |
-|  40  |  1/10     |   8       | Address Translation                              |         |  Hein Meling takes over            |
+|  40  |  1/10     |   8       | Address Translation                              |         | Hein Meling takes over  |
 |      |  1/10     |           | Programming Tools                                |         |              |
 |      |  3/10     |   8       | Address Translation                              |         |              |
-|      |  5/10 | Lab 4 | Data Race Detection and Profiling                            |         |              |
-|  41  | 8/10      |   9       | No lecture work on labs                       |         |     Hein travelling         |
-|      | 8/10      | Lab 5     | Threads and Protection                           |         |              |
-|      | 10/10     |  10       | No lecture work on labs                        |         |              |
-|      |  **12/10** | **Lab 4** | **Lab4 Due: Data Race Detection and Profiling**                            |         |              |
-|  42  | 15/10     |  11       | Caching and Virtual Memory                                     |         |              |
-|      | 15/10 | Lab 5 | Threads and Protection   |         |      |
-|      | 17/10     |  12       | Advanced Memory Management                                 |         |              |
-|      | 19/10 | Lab 5 | Threads and Protection    |         |  |
-|  43  |  22/10    |  13       | File Systems                            |         |              |
-|      | 15/10 | Lab 5 | Threads and Protection   |         |      |
-|      |  24/10    |  14       | Files and Directories                                 |         |              |
+|      |  5/10     | Lab 4     | Data Race Detection and Profilin                 |         |              |
+|  41  | 8/10      |           | No lecture; work on labs                        |         | Hein travelling         |
+|      | 8/10      | Lab 5     | Threads and Protection                          |         |              |
+|      | 10/10     |           | No lecture; work on labs                        |         |              |
+|      | **12/10** | **Lab 4** | **Lab4 Due: Data Race Detection and Profiling**    |         |              |
+|  42  | 15/10     |  9        | Caching and Virtual Memory                                     |         |              |
+|      | 15/10     | Lab 5     | Threads and Protection   |         |      |
+|      | 17/10     | 10        | Advanced Memory Management                                 |         |              |
+|      | 19/10     | Lab 5     | Threads and Protection    |         |  |
+|  43  | 22/10     | 11        | File Systems                            |         |              |
+|      | 15/10     | Lab 5     | Threads and Protection   |         |      |
+|      | 24/10     | 13        | Files and Directories                                 |         |              |
 |      | **26/10** | **Lab 5** | **Lab5 Due: Threads and Protection**    |         |      |
-|  44  | 29/10     |  14       | Reliable Storage                                 |         |              |
-|      | 29/10     |  Lab 6         | ZapLab: TV channel statistics |         |              |
-|      | 31/10     | 14     | Reliable Storage                     |         |              |
+|  44  | 29/10     | 14        | Reliable Storage                                 |         |              |
+|      | 29/10     | Lab 6     | ZapLab: TV channel statistics |         |              |
+|      | 31/10     | 14        | Reliable Storage                     |         |              |
 |      | 02/11     | Lab 6     | ZapLab: TV channel statistics                    |         |              |
-|  45  | 5/11      |           |  OS Security                               |         |    |
-|      | 7/11      |           |  OS Security                                  |         |    |
-|      | 9/11     |           | ZapLab: TV channel statistics (No lab assistance)|         |              |
+|  45  | 5/11      |           | OS Security                               |         |    |
+|      | 7/11      |           | OS Security                                  |         |    |
+|      | 9/11      |           | ZapLab: TV channel statistics (No lab assistance) |         |              |
 |  46  | 12/11     |           | Guest Lecutre1                  |         |    Friend OS/cloud guest lecture          |
-|    | 14/11     |           | Guest Lecutre2 (tentative)                  |         |              |
+|      | 14/11     |           | Guest Lecutre2 (tentative)                  |         |              |
 |      | **16/11** | **Lab 6** | **ZapLab: TV channel statistics**                |         |              |
-|  47    | 21/11     |           | **ZapLab: TV channel statistics (with all 5 slip days)**                                     |         |              |
+|  47  | 21/11     |           | **ZapLab: TV channel statistics (with all 5 slip days)**   |         |              |
 |      | 22/11     |           | **Lab Exam**                                     |         |              |
 |      | 23/11     |           | **Lab Exam**                                     |         |              |
-|  48   | 26/11      |           | Revision, Q&A                                   |         |  |
-|  49  | 7/12      |           | **Exam**                                         |         |              |
+|  48  | 26/11     |           | Revision, Q&A                                   |         |  |
+|  49  | 3/12      |           | **Exam** (note new date)                         |         |              |
