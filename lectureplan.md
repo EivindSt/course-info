@@ -58,4 +58,4 @@
 |      | 22/11     |           | **Lab Exam**                                     |         |              |
 |      | 23/11     |           | **Lab Exam**                                     |         |              |
 |  48  | 26/11     |           | Revision, Q&A                                   |         |  |
-|  49  | 3/12      |           | **Exam** (note new date)                         |         |              |
+|  49  | 4/12      |           | **Exam** (note new date)                         |         |              |
