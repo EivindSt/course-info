@@ -3,7 +3,7 @@
 The lab exam will be held in **Week 47 (November 22nd and 23rd 2018)** (Final).
 Exact day and time will be provided in a separate schedule.
  
-1. Examination is individual and covers only lab 6. 
+1. Examination is individual (only demo part is combined) and covers only lab 6. 
 
 2. It is meant to be a demo session, where you show that your joint lab is
 working, and you will be asked to run different parts of the program(s) that
@@ -31,19 +31,17 @@ both the lab exam and the written exam.
 
 ###Lab Exam Procedure
 
-1. You are expected to come to the lab between 0700-0800 in morning of your
-exam date to set up the necessary terminal windows and otherwise prepare things
-so that each lab exercise can be executed with a few keystrokes. Make sure to
-test that all is working correctly. Nothing should be running when you leave
-the lab before 0800. Lock the screen and leave the room.
+1. Prepare everything to be ready to execute on your laptop. Since we are working on
+limited time, you should be able to demo the tasks right away when you come into the exam room.
  
-2. Please arrive about ten minutes before your scheduled time and wait outside
-the lab. We will come and fetch you when it is your time.
+2. Please arrive about fice minutes before your scheduled time and wait outside
+the room 423f. We will come and fetch you when it is your time.
  
-3. The examination is expected to take about 20 minutes.
+3. The examination is expected to take about 15 minutes. First 5 minutes you will give a demo of the
+tasks together with your partner. Then we question each of you alone for 5 minutes each.
  
 4. You will be asked questions about:
    - Your design and implementation for the two labs.
-   - General theory questions about the two labs.
+   - General theory questions about the lab 6.
    - Questions about Go programming language features used in the labs.
-   - General questions about kernel programming.
+   - General questions about RPC.
