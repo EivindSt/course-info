@@ -21,3 +21,4 @@ All chapters listed below, published slides from It's learning, code snippets fr
 | 12      | Not relevant                                                                      |
 | 13      | All. *Chapter 13.3 is important.*                                                 |
 | 14      | All. *Chapter 14.1 is important.*                                                 |
+| -      | High level questions from security videos                                          |
