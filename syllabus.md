@@ -18,6 +18,6 @@ All chapters listed below, published slides from It's learning, code snippets fr
 | 9       | All important.                                                                    |
 | 10      | All. *Chapters 10.1-10.3 are important.*                                          |
 | 11      | All;                                                                              |
-| 12      | All.                                                                              |
+| 12      | Not relevant                                                                      |
 | 13      | All. *Chapter 13.3 is important.*                                                 |
 | 14      | All. *Chapter 14.1 is important.*                                                 |
