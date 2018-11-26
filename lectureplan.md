@@ -57,5 +57,5 @@
 |  47  | 21/11     |           | **ZapLab: TV channel statistics (with all 5 slip days)**   |         |              |
 |      | 22/11     |           | **Lab Exam**                                     |         |              |
 |      | 23/11     |           | **Lab Exam**                                     |         |              |
-|  ~~48  | 26/11     |           | Revision, Q&A                                    |         |  Cancelled ~~|
+|  ~~48~~  | ~~26/11~~     |           | ~~Revision, Q&A~~                                    |         |  Cancelled|
 |  49  | 4/12      |           | **Exam** (note new date)                         |         |              |
